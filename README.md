@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/monksweep/monksweep/blob/main/pic/pusheencode.gif" />
 
 ### I'm YongGang Wang
 
