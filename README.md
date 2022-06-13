@@ -1,6 +1,7 @@
 ## Hello GitHub Fans 👋
 [![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:monksweep@outlook.com)](mailto:monksweep@outlook.com)
+[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
+[![Mail Badge](https://img.shields.io/badge/-monksweep@outlook.com-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:monksweep@outlook.com)](mailto:monksweep@outlook.com)
 
 ---
 
